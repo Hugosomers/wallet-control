@@ -1,0 +1,7 @@
+.mainBodyWallet {
+  box-sizing: border-box;
+  width: 1366px;
+  height: 100vh;
+  background-color: #fffffe69;
+  border: 1px solid #23232315;
+}
